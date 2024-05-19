@@ -5,10 +5,8 @@
 // ''
 // NaN
 
-var user = "2";
+var user = "user";
 
-if (2 === user){
+if (user){
     console.log("Condition is true");
 }
-
-console.log("2" + "2");
