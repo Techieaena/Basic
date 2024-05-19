@@ -5,7 +5,7 @@
 // ''
 // NaN
 
-var user = "user";
+var user = "";
 
 if (user){
     console.log("Condition is true");
