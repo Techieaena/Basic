@@ -11,3 +11,16 @@ var bigTipper = function (a) {
 };
 
 bigTipper("200");
+
+console.log(name);
+var name = "aena";
+
+
+function sayName() {
+    var name = "Miss Aena";
+    console.log(name);
+    
+}
+sayName();
+
+console.log(name);
